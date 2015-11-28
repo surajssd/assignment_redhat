@@ -20,12 +20,3 @@ After VM is ready
 
 - To install RDO run **install_rdo.sh**.
 - And once RDO is installed successfully run **auth_and_list_networks.py** to login as admin and list all the networks in Openstack.
-
-
-
-**Note**
-
-While this script was written there were some issue related to installing RDO. Here [1] is workaround to the bug.
-
-[1] https://ask.openstack.org/en/question/85014/error-could-not-find-data-item-config_use_subnets-in-any-hiera-data-file/
-
