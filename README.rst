@@ -12,11 +12,11 @@ OS requirements
 Hardware Requirements
 +++++++++++++++++++++
 
-- Memory: 4GB
-- Processor: 4processors
+- Memory: 4 GB
+- Processor: 4 processors
 
 After VM is ready
 +++++++++++++++++
 
-- To install RDO run **install_rdo.sh**.
+- To install RDO run **install_rdo.sh** as root user.
 - And once RDO is installed successfully run **auth_and_list_networks.py** to login as admin and list all the networks in Openstack.
